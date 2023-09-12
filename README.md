@@ -1,4 +1,4 @@
-# ANIME BLOG
+<h1 align="center"> ANIME BLOG </h1>
 <p align="center">Projeto de blog feito durante o Bootcamp Santander na DIO, o inicio do projeto foi feito junto ao instrutor e depois aprimorado por mim com informações fictícias sobre personagens de animes e mangás, também adicionei mais informações e estilizei da forma que achei esteticamente mais agradável</p>
 
 <p align="center">
