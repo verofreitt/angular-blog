@@ -9,3 +9,6 @@ Projeto de blog feito durante o Bootcamp Santander na DIO, o inicio do projeto f
 
 - `ANGULAR`
 
+
+
+![Animes InfosqualiMedia](https://github.com/verofreitt/angular-blog/assets/113372101/c71a282d-71ca-4940-b086-79a023c4c4d3)
